@@ -9,3 +9,10 @@
 html {
   border-color: white;
 }
+
+/* Post title: match the paragraph text font (primary), bold, instead of the
+   theme's serif heading font (secondary) — applies on both index and post. */
+.post-title {
+  font-family: _font(primary);
+  font-weight: bold;
+}
