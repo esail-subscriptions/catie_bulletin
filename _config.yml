@@ -27,7 +27,7 @@ favicon: images/favicon.png
 google_analytics: ""
 
 # CATIE header logo (rehosted from Baserow's blog_index_image Drive URL)
-logo: "https://res.cloudinary.com/xqd55zsp/image/upload/v1784660681/catie_bulletin_header_logo.png"
+logo: "https://res.cloudinary.com/xqd55zsp/image/upload/v1784667782/catie_bulletin_header_logo.png"
 
 # Site navigation - each item must have a title and a url.
 navigation:
