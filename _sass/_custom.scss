@@ -1,0 +1,11 @@
+/* CATIE Bulletin overrides — loaded last so these win over theme defaults. */
+
+/* "Continue reading" read-more link: CATIE maroon, not the theme accent color. */
+.read-more-link {
+  color: #500000;
+}
+
+/* Neutralize the theme's 15px accent-colored page border (_general.scss). */
+html {
+  border-color: white;
+}
