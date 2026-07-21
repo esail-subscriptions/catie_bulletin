@@ -1,3 +1,72 @@
-theme: minima
-title: The CATIE Bulletin
-description: Monthly featured articles from the CATIE Bulletin at Texas A&M University.
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site language
+lang: en-US
+
+# Site title
+title: "The CATIE Bulletin"
+
+# A description of your site for meta tag, search engine results.
+description: "Monthly featured articles from the CATIE Bulletin at Texas A&M University."
+
+# The subpath of your site, e.g. /blog, for generating urls.
+baseurl: /catie_bulletin
+
+# The base hostname & protocol of your site for where absolute urls are needed.
+url: "https://esail-subscriptions.github.io"
+
+# Favicon
+favicon: images/favicon.png
+
+# Google Analytics id, e.g. "UA-NNNNNNNN-N"
+google_analytics: ""
+
+# CATIE header logo (rehosted from Baserow's blog_index_image Drive URL)
+logo: "https://res.cloudinary.com/xqd55zsp/image/upload/v1784660681/catie_bulletin_header_logo.png"
+
+# Site navigation - each item must have a title and a url.
+navigation:
+  - text: Home
+    url: https://www.tamus.edu/catie/
+  - text: Archive
+    url: https://esail-subscriptions.github.io/catie_bulletin/
+  - text: About
+    url: https://www.tamus.edu/catie/about/
+  - text: Contact
+    url: https://www.tamus.edu/catie/contact/
+
+# The shortname for your Disqus site to enable comments.
+disqus: ""
+
+# Colors
+accent_color: '#500000'
+
+# Site footer
+footer:
+  content: "&copy; The CATIE Bulletin, Texas A&M University."
+  has_social: false
+
+# Plugins
+plugins:
+  - jekyll-paginate
+
+# http://jekyllrb.com/docs/pagination/
+paginate: 3
+paginate_path: '/page:num/'
+
+
+# Permalinks
+permalink: /:title
+
+# Conversion
+markdown: kramdown
+
+# Sass
+sass:
+  sass_dir: _sass
+  style: compressed
