@@ -2,7 +2,10 @@
 layout: post
 title: Where Learning Meets The Metaverse
 date: '2026-07-17'
-cover-img: https://res.cloudinary.com/xqd55zsp/image/upload/v1784647750/hwr3iejwcrasacrxpyre.png
+feature_image: https://res.cloudinary.com/xqd55zsp/image/upload/v1784647750/hwr3iejwcrasacrxpyre.png
+excerpt: How Dr. Jinsil Hwaryoung Seo from Texas A&M - College Station utilizes immersive
+  technology and artificial intelligence to create virtual hands-on learning experiences
+  that enhance student engagement and skill development.
 ---
 
 How do you teach an ER nurse to palpate the abdomen of a pregnant patient, or learn where to position a stethoscope when listening to someone's lungs, if there's no actual patient available to practice on? At Texas A&M University, Dr. Jinsil Hwaryoung Seo has built an answer — literally.
