@@ -2,7 +2,7 @@
 layout: post
 title: Where Learning Meets The Metaverse
 date: '2026-07-17'
-feature_image: https://res.cloudinary.com/xqd55zsp/image/upload/v1784745380/e66iz9navydmjnxmdtvw.png
+feature_image: https://res.cloudinary.com/xqd55zsp/image/upload/v1784745507/lbzbjkmn8qki7iht6bku.png
 excerpt: How Dr. Jinsil Hwaryoung Seo from Texas A&M - College Station utilizes immersive
   technology and artificial intelligence to create virtual hands-on learning experiences
   that enhance student engagement and skill development.
