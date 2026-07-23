@@ -2,7 +2,7 @@
 layout: post
 title: Where Learning Meets The Metaverse
 date: '2026-07-17'
-feature_image: https://res.cloudinary.com/xqd55zsp/image/upload/v1784758301/s8tm4lx9zosnpvkmwjob.png
+feature_image: https://res.cloudinary.com/xqd55zsp/image/upload/v1784834183/ferfd3t7a84cuizbuaez.png
 excerpt: How Dr. Jinsil Hwaryoung Seo from Texas A&M - College Station utilizes immersive
   technology and artificial intelligence to create virtual hands-on learning experiences
   that enhance student engagement and skill development.
@@ -33,3 +33,5 @@ The applications extend beyond clinical settings. Working with the Challenge of 
 Most recently, Dr. Seo is developing VR reminiscence therapy for elderly patients with Alzheimer's and their families. Using old photographs of homes, gardens, and loved ones, the team recreates personal environments in virtual reality — transporting residents back to places they haven't seen in decades. "Maybe they've moved from where they were living 30 years ago, and now they're in the nursing home, often without familiar surroundings like their garden or personal spaces," Dr. Seo says. "So, utilizing old photos, we can recreate those meaningful environments in virtual reality — for them to be like, oh, I'm there, I'm in my house, like 30 years ago. These VR experiences not only immerse them in familiar settings but also stimulate conversation and help trigger vivid memories, enhancing emotional connection and cognitive recall."
 
 Whether equipping a student nurse for her first forensic exam or giving a nursing home resident a few minutes back in her garden, Dr. Seo and her team are demonstrating something quietly profound: the virtual world, built with enough care, can make a very real difference.
+
+*Original source material published by: Amy Halbert '95, Texas A&M University Division of Marketing and Communications*
