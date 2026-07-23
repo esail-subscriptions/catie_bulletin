@@ -16,3 +16,15 @@ html {
   font-family: _font(primary);
   font-weight: bold;
 }
+
+/* No serif anywhere in article content: the theme defaults h1-h6 and
+   blockquote to the secondary (Noto Serif) font in _general.scss. Override
+   every in-article heading level and blockquote to the same primary
+   sans-serif font used everywhere else on the site. */
+h1, h2, h3, h4, h5, h6 {
+  font-family: _font(primary);
+}
+
+blockquote {
+  font-family: _font(primary);
+}
