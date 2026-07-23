@@ -2,10 +2,10 @@
 layout: post
 title: Steering the Future of Innovation
 date: '2026-07-23'
-feature_image: https://res.cloudinary.com/xqd55zsp/image/upload/v1784826456/hrckg0omjxsmn5fyg4f8.png
-excerpt: Welcome incoming CATIE Chair Dr. Rolando R. Garza! Learn how the TAMUK leader
-  plans to strengthen system-wide collaboration, champion emerging tech, and build
-  a future-ready Texas A&M System.
+feature_image: https://res.cloudinary.com/xqd55zsp/image/upload/v1784834187/mfsabjrqs9linrjxq1ob.png
+excerpt: Welcome incoming CATIE Chair Dr. Rolando R. Garza! Learn how the TAMU-Kingsville
+  leader plans to strengthen system-wide collaboration, champion emerging tech, and
+  build a future-ready Texas A&M System.
 ---
 
 Higher education is evolving faster than ever, and at the heart of that transformation across Texas is **Rolando R. Garza, Ed.D.** Stepping into his new role as Chair of the **Council on Academic Technology & Innovative Education (CATIE)**, Dr. Garza brings a dynamic blend of visionary leadership, deep technical expertise, and a steadfast commitment to student equity.
@@ -31,3 +31,5 @@ Holding an **Ed.D. in Education from Nova Southeastern University**—with a spe
 - **National & Regional Distance Learning Advocacy:** A past president (2015–2018) and longtime leader in the **Texas Distance Learning Association (TxDLA)**, Dr. Garza also serves on the Executive Board of the **United States Distance Learning Association (USDLA)** as Chair of State Chapters.
 
 With a proven track record of bridging technology, faculty development, and student success, Dr. Garza’s tenure as CATIE Chair promises to unlock exciting new chapters for academic innovation across the entire Texas A&M System.
+
+*Original source material published by: Every Learner Everywhere*
