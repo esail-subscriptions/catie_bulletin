@@ -70,3 +70,6 @@ markdown: kramdown
 sass:
   sass_dir: _sass
   style: compressed
+
+# Publish posts dated in the future (added 2026-11-11 so a post dated tomorrow is live now)
+future: true
