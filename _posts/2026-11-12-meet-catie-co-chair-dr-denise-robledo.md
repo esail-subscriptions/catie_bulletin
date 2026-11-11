@@ -3,8 +3,8 @@ layout: post
 title: Meet CATIE Co-Chair Dr. Denise Robledo
 date: '2026-11-12'
 feature_image: https://res.cloudinary.com/xqd55zsp/image/upload/v1794414723/Dr._Denise_Robledo_gy3hlb.png
-excerpt: Dr. Denise Robledo from Texas A&M University-Corpus Christi is leading the
-  2027 CATIE conference and wants faculty to submit proposals.
+excerpt: Dr. Denise Robledo from Texas A&M University-Corpus Christi plans to get
+  the A&M System "Roaring into the Future" in 2027. Find your part in it.
 ---
 
 Dr. Denise Robledo, Director of Digital Learning &amp; Academic Innovations at Texas A&amp;M University-Corpus Christi, serves as the CATIE Co-Chair. Drawing on her experience in digital learning, instructional innovation, and system-wide collaboration, Dr. Robledo is helping lead efforts to strengthen connections among faculty, instructional designers, academic technologists, and other professionals across The Texas A&amp;M University System. 
